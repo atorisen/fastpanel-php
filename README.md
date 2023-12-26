@@ -2,6 +2,7 @@
 Unofficial Fastpanel API written in PHP
 
 The project is not completely finished and there may be bugs, but most of the api features have been implemented.
+It was developed in the summer of 2023 and distributed among my friends, but I decided to publish it on github.
 
 ## Install
 ```bash
